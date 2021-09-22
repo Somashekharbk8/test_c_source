@@ -2,5 +2,4 @@
 main(){
 factorial();
 biggest();
-reverse();
 }
